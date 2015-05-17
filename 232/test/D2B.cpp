@@ -38,7 +38,7 @@ int main()
 #ifdef LOCAL_DEBUG
 	freopen("in.txt", "r", stdin);
 #endif
-	
+
 	int t;
 	long long n, l, r;
 	cin >> t;
